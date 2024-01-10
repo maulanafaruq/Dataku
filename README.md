@@ -1,5 +1,4 @@
 <h1 align="left">Source Code Dataku</h1>
-###
 
 <h4 align="left">Elby Anggara Putra 221-111-025<br>Maulana Fharuq Khasbullah 221-111-023</h4>
 
